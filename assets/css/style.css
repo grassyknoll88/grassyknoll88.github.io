@@ -159,13 +159,6 @@ textarea {
     border-color: #dddddd;
 }
 
-.projects {
-    column-count: 2;
-    width: 265px;
-    height: 200px;
-    padding: 15px; 
-    box-sizing: border-box;
-}
 
 footer {
     position: absolute;
