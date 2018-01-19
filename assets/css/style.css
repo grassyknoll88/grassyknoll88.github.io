@@ -159,6 +159,10 @@ textarea {
     border-color: #dddddd;
 }
 
+.projects {
+    column-count: 2;
+}
+
 
 footer {
     position: absolute;
